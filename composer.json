@@ -1,0 +1,19 @@
+{
+    "name": "hi/oop_teacher_crud",
+    "description": "This is OOP crud for Practice",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Mohiuddin",
+            "email": "sobujmohiuddin1426@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
